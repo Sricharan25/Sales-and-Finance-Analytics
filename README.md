@@ -16,9 +16,9 @@ Role of Reports: Determining effective customer discounts, facilitating negotiat
 # Finance Report:
 Project Objectives:
 
-1.Profit and Loss (P&L) Reports: Created P&L reports by fiscal years and P&L reports by fiscal months
+1.Profit and Loss (P&L) Reports: Created <a href ="https://github.com/Sricharan25/Sales-and-Finance-Analytics/blob/main/P%26L%20Statement%20by%20Fiscal%20Year.pdf">P&L reports by fiscal years</a> and <a href ="https://github.com/Sricharan25/Sales-and-Finance-Analytics/blob/main/P%26L%20Statement%20by%20Months.pdf">P&L reports by fiscal months</a>
 
-2.P&L Reports by Markets: Generated P&L reports categorized by different markets.
+2.P&L Reports by Markets: Generated P&L reports categorized by different <a href="https://github.com/Sricharan25/Sales-and-Finance-Analytics/blob/main/P%26L%20Statement%20by%20Markets.pdf">markets</a>.
 
 3.Finance Analytics Purpose: Evaluated financial performance, supported decision-making processes, and enhanced stakeholder communication.
 
