@@ -4,7 +4,7 @@
 <h1>Sales Report:</h1>
 Project Objectives:
 
-1.Customer Performance Assessment: Developed an in-depth report for evaluating customer performance.
+1.Customer Performance Assessment: Developed an in-depth <a href="https://raw.githubusercontent.com/Sricharan25/Sales-and-Finance-Analytics/main/AI_enabled_DA_1.png">report</a> for evaluating customer performance.
 
 2.Market Performance Comparison: Conducted a comprehensive analysis to compare market performance with sales targets.
 
