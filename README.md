@@ -1,12 +1,11 @@
 # Sales-and-Finance-Analytics-Report-of-AtliQ-Hardware
-<img src= "https://raw.githubusercontent.com/Sricharan25/Sales-and-Finance-Analytics/main/AI_enabled_DA_1.png">
-<a href="https://raw.githubusercontent.com/Sricharan25/Sales-and-Finance-Analytics/main/AI_enabled_DA_1.png">click</a>
+
 <h1>Sales Report:</h1>
 Project Objectives:
 
-1.Customer Performance Assessment: Developed an in-depth <a href="https://raw.githubusercontent.com/Sricharan25/Sales-and-Finance-Analytics/main/AI_enabled_DA_1.png">report</a> for evaluating customer performance.
+1.Customer Performance Assessment: Developed an in-depth <a href="https://github.com/Sricharan25/Sales-and-Finance-Analytics/blob/main/Customer%20Performance%20Report.pdf">report</a> for evaluating customer performance.
 
-2.Market Performance Comparison: Conducted a comprehensive analysis to compare market performance with sales targets.
+2.Market Performance Comparison: Conducted a comprehensive analysis to compare <a href="https://github.com/Sricharan25/Sales-and-Finance-Analytics/blob/main/Market%20Performance%20vs%20Target%20Report.pdf">market performance</a> with sales targets.
 
 3.Sales Analytics Purpose: Empowered businesses with the capability to monitor, assess, and improve their sales activities and outcomes.
 
