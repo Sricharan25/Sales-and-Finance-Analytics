@@ -1,5 +1,5 @@
 # Sales-and-Finance-Analytics-Report-of-AtliQ-Hardware
-
+<img src= "https://raw.githubusercontent.com/Sricharan25/Sales-and-Finance-Analytics/main/AI_enabled_DA_1.png">
 <h1>Sales Report:</h1>
 Project Objectives:
 
